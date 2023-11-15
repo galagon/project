@@ -1,0 +1,11 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python>=3.10
+  - ipykernel
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - matplotlib
+prefix: C:\Users\galagon\AppData\Local\miniconda3\envs\dstoolbox
